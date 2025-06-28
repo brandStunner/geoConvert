@@ -20,6 +20,7 @@ Made for geologists, geographers, GIS professionals, surveyors, students, or any
 ## 🖥️ How to Use
 
 ### 1. Clone the Repository
-```bash
+```
 git clone https://github.com/yourusername/geoConvert.git
 cd geoConvert
+```
