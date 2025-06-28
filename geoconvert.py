@@ -98,7 +98,7 @@ def main_menu():
         
         # Ask if user wants to continue
         if choice in ['1', '2']:
-            continue_choice = input("\nWould you like to perform another conversion? Type y if Yes or n if no: ").strip().lower()
+            continue_choice = input("\nWould you like to perform another conversion? Type y if Yes or n if No: ").strip().lower()
             if continue_choice not in ['y', 'yes']:
                 print("Thank you for using the Coordinate Converter!")
                 break
